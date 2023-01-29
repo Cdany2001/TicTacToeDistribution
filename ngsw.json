@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675010673973,
+  "timestamp": 1675027401300,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.aab270eee155cd88.js",
+        "/main.34a6f74b5f987573.js",
         "/manifest.webmanifest",
         "/polyfills.2c2a504ca8489e63.js",
         "/runtime.3466f6e75a87d2e4.js",
@@ -37,7 +37,14 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/sounds/backgroundMusic.wav",
+        "/assets/sounds/gameDraw.wav",
+        "/assets/sounds/gameReset.wav",
+        "/assets/sounds/gameWon.wav",
+        "/assets/sounds/placeInvalid.wav",
+        "/assets/sounds/placeO.wav",
+        "/assets/sounds/placeX.wav"
       ],
       "patterns": []
     }
@@ -53,9 +60,16 @@
     "/assets/icons/icon-512x512.png": "451d579367dee9732c07ca7f7cd07634a730b43f",
     "/assets/icons/icon-72x72.png": "26b67afb64457746ebc7f7e50d0b01f248762871",
     "/assets/icons/icon-96x96.png": "d4d6f94d3d2842939aff4a0a69bbbedde2ef9598",
+    "/assets/sounds/backgroundMusic.wav": "527f65d7b8e026bd670dabeecb299e657a70088b",
+    "/assets/sounds/gameDraw.wav": "6072ebd77e34d9046bd4ea50cf1822be317f715c",
+    "/assets/sounds/gameReset.wav": "7a90eec8bec62bd47513572e634ff57a55c2b1ef",
+    "/assets/sounds/gameWon.wav": "aa316aafcac6044db43793707d2e2e4384ee1651",
+    "/assets/sounds/placeInvalid.wav": "63f5ecf1ab17792cb4ec8b2308e42940a6fc808d",
+    "/assets/sounds/placeO.wav": "6fef173f2d3777e39240382300ddc3facf23f783",
+    "/assets/sounds/placeX.wav": "e2376ce1d7e026e06af3b2ed66676675fc506207",
     "/favicon.ico": "c28ec513afa7dc488b1b7354273edcfe6f30e435",
-    "/index.html": "8b7cdba2ad49fbcc4b12baf8a18dfbdc659fb3fd",
-    "/main.aab270eee155cd88.js": "97872837d8db204f1a13cdd9950d05a4a6307bcb",
+    "/index.html": "03f5eb34b0e7490425f20d614d4eda7e7c054ee5",
+    "/main.34a6f74b5f987573.js": "276f9c556e1b3f12a5c7d201475dc7fb59019916",
     "/manifest.webmanifest": "dec7286d25e0751207ee8eb2b409ba13a90bf3b1",
     "/polyfills.2c2a504ca8489e63.js": "4e52189e2ee9af45b6cfdc04ac4b880e34f83bc8",
     "/runtime.3466f6e75a87d2e4.js": "1968e41ef2fada893287276752b72a4a741ecf7d",
