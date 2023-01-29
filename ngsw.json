@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1675001625828,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.73693f4fe7882652.js",
+        "/manifest.webmanifest",
+        "/polyfills.2c2a504ca8489e63.js",
+        "/runtime.3466f6e75a87d2e4.js",
+        "/styles.5e60c089d2b2cc1e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/apple-touch-icon.png": "2ee94f7302fd68f562fa655f340e2267f3bb96d2",
+    "/assets/icons/icon-128x128.png": "674687187b32dfd55423071ee7550310a35ca8b8",
+    "/assets/icons/icon-144x144.png": "470bfe6ecf570a7ba655c0c8bc2cfafc1cb2114a",
+    "/assets/icons/icon-152x152.png": "76592b0d69fb1f30a88dd24fef2029e9a5004aaf",
+    "/assets/icons/icon-192x192.png": "2ee94f7302fd68f562fa655f340e2267f3bb96d2",
+    "/assets/icons/icon-384x384.png": "a8fd88ad0cc6c4ecf541d1c5164f1779e722a54c",
+    "/assets/icons/icon-512x512.png": "451d579367dee9732c07ca7f7cd07634a730b43f",
+    "/assets/icons/icon-72x72.png": "26b67afb64457746ebc7f7e50d0b01f248762871",
+    "/assets/icons/icon-96x96.png": "d4d6f94d3d2842939aff4a0a69bbbedde2ef9598",
+    "/favicon.ico": "c28ec513afa7dc488b1b7354273edcfe6f30e435",
+    "/index.html": "a5e14dfc90e7a3115b15f19534881789cede1b5c",
+    "/main.73693f4fe7882652.js": "837ade1b05181abd3109d2f49e5aaa0c08ec3283",
+    "/manifest.webmanifest": "dec7286d25e0751207ee8eb2b409ba13a90bf3b1",
+    "/polyfills.2c2a504ca8489e63.js": "4e52189e2ee9af45b6cfdc04ac4b880e34f83bc8",
+    "/runtime.3466f6e75a87d2e4.js": "1968e41ef2fada893287276752b72a4a741ecf7d",
+    "/styles.5e60c089d2b2cc1e.css": "c59b0b7703d9c7386d1a5a3831f983c486095e67"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
