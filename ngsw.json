@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675028284527,
+  "timestamp": 1675030061922,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.34a6f74b5f987573.js",
+        "/main.c244ba91041e9f14.js",
         "/manifest.webmanifest",
         "/polyfills.2c2a504ca8489e63.js",
         "/runtime.3466f6e75a87d2e4.js",
@@ -29,22 +29,22 @@
         "ignoreVary": true
       },
       "urls": [
-        "/TicTacToeDistribution/assets/icons/apple-touch-icon.png",
-        "/TicTacToeDistribution/assets/icons/icon-128x128.png",
-        "/TicTacToeDistribution/assets/icons/icon-144x144.png",
-        "/TicTacToeDistribution/assets/icons/icon-152x152.png",
-        "/TicTacToeDistribution/assets/icons/icon-192x192.png",
-        "/TicTacToeDistribution/assets/icons/icon-384x384.png",
-        "/TicTacToeDistribution/assets/icons/icon-512x512.png",
-        "/TicTacToeDistribution/assets/icons/icon-72x72.png",
-        "/TicTacToeDistribution/assets/icons/icon-96x96.png",
-        "/TicTacToeDistribution/assets/sounds/backgroundMusic.wav",
-        "/TicTacToeDistribution/assets/sounds/gameDraw.wav",
-        "/TicTacToeDistribution/assets/sounds/gameReset.wav",
-        "/TicTacToeDistribution/assets/sounds/gameWon.wav",
-        "/TicTacToeDistribution/assets/sounds/placeInvalid.wav",
-        "/TicTacToeDistribution/assets/sounds/placeO.wav",
-        "/TicTacToeDistribution/assets/sounds/placeX.wav"
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/sounds/backgroundMusic.wav",
+        "/assets/sounds/gameDraw.wav",
+        "/assets/sounds/gameReset.wav",
+        "/assets/sounds/gameWon.wav",
+        "/assets/sounds/placeInvalid.wav",
+        "/assets/sounds/placeO.wav",
+        "/assets/sounds/placeX.wav"
       ],
       "patterns": []
     }
@@ -68,8 +68,8 @@
     "/assets/sounds/placeO.wav": "6fef173f2d3777e39240382300ddc3facf23f783",
     "/assets/sounds/placeX.wav": "e2376ce1d7e026e06af3b2ed66676675fc506207",
     "/favicon.ico": "c28ec513afa7dc488b1b7354273edcfe6f30e435",
-    "/index.html": "fb86d2e6618eb1d64347314426d127541f7205f3",
-    "/main.34a6f74b5f987573.js": "276f9c556e1b3f12a5c7d201475dc7fb59019916",
+    "/index.html": "2fedb91dffb82aca52c3145230386fbf72cd8286",
+    "/main.c244ba91041e9f14.js": "34c23d6d01dfb083553b46b488af10bc04cbb07a",
     "/manifest.webmanifest": "0d903bffb4b0af8079bf103e5fa7619c12d919c0",
     "/polyfills.2c2a504ca8489e63.js": "4e52189e2ee9af45b6cfdc04ac4b880e34f83bc8",
     "/runtime.3466f6e75a87d2e4.js": "1968e41ef2fada893287276752b72a4a741ecf7d",
