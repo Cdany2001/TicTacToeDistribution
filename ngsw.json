@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1675512639111,
+  "timestamp": 1675523661572,
   "index": "/TicTacToeDistribution/index.html",
   "assetGroups": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
